@@ -1,0 +1,1 @@
+loadBalance=rpc.loadbalance.loadbalancer.ConsistentHashLoadBalance

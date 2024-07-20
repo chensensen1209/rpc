@@ -1,0 +1,2 @@
+zk=rpc.registry.zk.ZkServiceRegistryImpl
+nacos=rpc.registry.nacos.NacosServiceRegistryImpl
